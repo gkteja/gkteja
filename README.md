@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a dedicated Data Analyst and Data Engineer w
 
 ## 🛠️ Experience
 
-### Ameren Services, Chandler (Aug 2023 – Present)
+### SVK Systems Inc, Chandler (Aug 2023 – Present)
 **Data Analyst**
 - 🚀 Employed advanced statistical analysis and data modeling techniques, improving forecasting accuracy by 15%.
 - 📊 Developed and maintained Power BI and Tableau dashboards, centralizing reporting for 50+ stakeholders.
